@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -fPIC  -rdynamic CMakeFiles/OONewLearning.dir/OONewLearning.cpp.o  -o OONewLearning 

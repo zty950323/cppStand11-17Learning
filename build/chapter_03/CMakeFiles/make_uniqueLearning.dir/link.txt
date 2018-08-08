@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -fPIC  -rdynamic CMakeFiles/make_uniqueLearning.dir/make_uniqueLearning.cpp.o  -o make_uniqueLearning 

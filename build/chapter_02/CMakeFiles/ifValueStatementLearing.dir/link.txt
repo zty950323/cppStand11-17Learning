@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -fPIC  -rdynamic CMakeFiles/ifValueStatementLearing.dir/ifValueStatement.cpp.o  -o ifValueStatementLearing 

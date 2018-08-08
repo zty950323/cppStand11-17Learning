@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -fPIC  -rdynamic CMakeFiles/enumClassLearning.dir/enumClassLearning.cpp.o  -o enumClassLearning 

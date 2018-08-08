@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -fPIC  -rdynamic CMakeFiles/LambdaLearning.dir/LambdaLearning.cpp.o  -o LambdaLearning 
