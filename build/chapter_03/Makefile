@@ -111,6 +111,21 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
+chapter_03/CMakeFiles/forwardUsingLearning.dir/rule:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f CMakeFiles/Makefile2 chapter_03/CMakeFiles/forwardUsingLearning.dir/rule
+.PHONY : chapter_03/CMakeFiles/forwardUsingLearning.dir/rule
+
+# Convenience name for target.
+forwardUsingLearning: chapter_03/CMakeFiles/forwardUsingLearning.dir/rule
+
+.PHONY : forwardUsingLearning
+
+# fast build rule for target.
+forwardUsingLearning/fast:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_03/CMakeFiles/forwardUsingLearning.dir/build.make chapter_03/CMakeFiles/forwardUsingLearning.dir/build
+.PHONY : forwardUsingLearning/fast
+
+# Convenience name for target.
 chapter_03/CMakeFiles/LambdaLearning.dir/rule:
 	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f CMakeFiles/Makefile2 chapter_03/CMakeFiles/LambdaLearning.dir/rule
 .PHONY : chapter_03/CMakeFiles/LambdaLearning.dir/rule
@@ -196,6 +211,33 @@ LambdaLearning.s: LambdaLearning.cpp.s
 LambdaLearning.cpp.s:
 	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_03/CMakeFiles/LambdaLearning.dir/build.make chapter_03/CMakeFiles/LambdaLearning.dir/LambdaLearning.cpp.s
 .PHONY : LambdaLearning.cpp.s
+
+forwardUsingLearning.o: forwardUsingLearning.cpp.o
+
+.PHONY : forwardUsingLearning.o
+
+# target to build an object file
+forwardUsingLearning.cpp.o:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_03/CMakeFiles/forwardUsingLearning.dir/build.make chapter_03/CMakeFiles/forwardUsingLearning.dir/forwardUsingLearning.cpp.o
+.PHONY : forwardUsingLearning.cpp.o
+
+forwardUsingLearning.i: forwardUsingLearning.cpp.i
+
+.PHONY : forwardUsingLearning.i
+
+# target to preprocess a source file
+forwardUsingLearning.cpp.i:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_03/CMakeFiles/forwardUsingLearning.dir/build.make chapter_03/CMakeFiles/forwardUsingLearning.dir/forwardUsingLearning.cpp.i
+.PHONY : forwardUsingLearning.cpp.i
+
+forwardUsingLearning.s: forwardUsingLearning.cpp.s
+
+.PHONY : forwardUsingLearning.s
+
+# target to generate assembly for a file
+forwardUsingLearning.cpp.s:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_03/CMakeFiles/forwardUsingLearning.dir/build.make chapter_03/CMakeFiles/forwardUsingLearning.dir/forwardUsingLearning.cpp.s
+.PHONY : forwardUsingLearning.cpp.s
 
 make_uniqueLearning.o: make_uniqueLearning.cpp.o
 
@@ -286,6 +328,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... forwardUsingLearning"
 	@echo "... LambdaLearning"
 	@echo "... make_uniqueLearning"
 	@echo "... moveSemanticsLearning"
@@ -293,6 +336,9 @@ help:
 	@echo "... LambdaLearning.o"
 	@echo "... LambdaLearning.i"
 	@echo "... LambdaLearning.s"
+	@echo "... forwardUsingLearning.o"
+	@echo "... forwardUsingLearning.i"
+	@echo "... forwardUsingLearning.s"
 	@echo "... make_uniqueLearning.o"
 	@echo "... make_uniqueLearning.i"
 	@echo "... make_uniqueLearning.s"

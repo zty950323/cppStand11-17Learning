@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/codemao/Panda/Projects/Learning/C++_Stand/chapter_03/forwardUsingLearning.cpp
+iostream
+-
+utility
+-
+
