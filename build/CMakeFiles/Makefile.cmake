@@ -13,6 +13,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.12.0-rc2/CMakeSystem.cmake"
   "../chapter_02/CMakeLists.txt"
   "../chapter_03/CMakeLists.txt"
+  "../chapter_04/CMakeLists.txt"
   "/usr/local/share/cmake-3.12/Modules/CMakeCInformation.cmake"
   "/usr/local/share/cmake-3.12/Modules/CMakeCXXInformation.cmake"
   "/usr/local/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake"
@@ -43,6 +44,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "chapter_02/CMakeFiles/CMakeDirectoryInformation.cmake"
   "chapter_03/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "chapter_04/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -64,4 +66,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "chapter_03/CMakeFiles/make_uniqueLearning.dir/DependInfo.cmake"
   "chapter_03/CMakeFiles/moveSemanticsLearning.dir/DependInfo.cmake"
   "chapter_03/CMakeFiles/perfactTransFromValueLearning.dir/DependInfo.cmake"
+  "chapter_04/CMakeFiles/std_arrayLearning.dir/DependInfo.cmake"
   )

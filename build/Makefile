@@ -331,6 +331,19 @@ perfactTransFromValueLearning/fast:
 	$(MAKE) -f chapter_03/CMakeFiles/perfactTransFromValueLearning.dir/build.make chapter_03/CMakeFiles/perfactTransFromValueLearning.dir/build
 .PHONY : perfactTransFromValueLearning/fast
 
+#=============================================================================
+# Target rules for targets named std_arrayLearning
+
+# Build rule for target.
+std_arrayLearning: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 std_arrayLearning
+.PHONY : std_arrayLearning
+
+# fast build rule for target.
+std_arrayLearning/fast:
+	$(MAKE) -f chapter_04/CMakeFiles/std_arrayLearning.dir/build.make chapter_04/CMakeFiles/std_arrayLearning.dir/build
+.PHONY : std_arrayLearning/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -356,6 +369,7 @@ help:
 	@echo "... make_uniqueLearning"
 	@echo "... moveSemanticsLearning"
 	@echo "... perfactTransFromValueLearning"
+	@echo "... std_arrayLearning"
 .PHONY : help
 
 
