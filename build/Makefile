@@ -332,6 +332,32 @@ perfactTransFromValueLearning/fast:
 .PHONY : perfactTransFromValueLearning/fast
 
 #=============================================================================
+# Target rules for targets named tupleUseAndLearning
+
+# Build rule for target.
+tupleUseAndLearning: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 tupleUseAndLearning
+.PHONY : tupleUseAndLearning
+
+# fast build rule for target.
+tupleUseAndLearning/fast:
+	$(MAKE) -f chapter_04/CMakeFiles/tupleUseAndLearning.dir/build.make chapter_04/CMakeFiles/tupleUseAndLearning.dir/build
+.PHONY : tupleUseAndLearning/fast
+
+#=============================================================================
+# Target rules for targets named compareMapAndUnorderedMapLeaning
+
+# Build rule for target.
+compareMapAndUnorderedMapLeaning: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 compareMapAndUnorderedMapLeaning
+.PHONY : compareMapAndUnorderedMapLeaning
+
+# fast build rule for target.
+compareMapAndUnorderedMapLeaning/fast:
+	$(MAKE) -f chapter_04/CMakeFiles/compareMapAndUnorderedMapLeaning.dir/build.make chapter_04/CMakeFiles/compareMapAndUnorderedMapLeaning.dir/build
+.PHONY : compareMapAndUnorderedMapLeaning/fast
+
+#=============================================================================
 # Target rules for targets named std_arrayLearning
 
 # Build rule for target.
@@ -369,6 +395,8 @@ help:
 	@echo "... make_uniqueLearning"
 	@echo "... moveSemanticsLearning"
 	@echo "... perfactTransFromValueLearning"
+	@echo "... tupleUseAndLearning"
+	@echo "... compareMapAndUnorderedMapLeaning"
 	@echo "... std_arrayLearning"
 .PHONY : help
 

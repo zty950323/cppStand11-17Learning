@@ -66,5 +66,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "chapter_03/CMakeFiles/make_uniqueLearning.dir/DependInfo.cmake"
   "chapter_03/CMakeFiles/moveSemanticsLearning.dir/DependInfo.cmake"
   "chapter_03/CMakeFiles/perfactTransFromValueLearning.dir/DependInfo.cmake"
+  "chapter_04/CMakeFiles/tupleUseAndLearning.dir/DependInfo.cmake"
+  "chapter_04/CMakeFiles/compareMapAndUnorderedMapLeaning.dir/DependInfo.cmake"
   "chapter_04/CMakeFiles/std_arrayLearning.dir/DependInfo.cmake"
   )

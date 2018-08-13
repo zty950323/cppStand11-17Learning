@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/codemao/Panda/Projects/Learning/C++_Stand/chapter_04/compareMapAndUnorderedMap.cpp
+iostream
+-
+string
+-
+unordered_map
+-
+map
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -fPIC  -rdynamic CMakeFiles/std_arrayLearning.dir/std_arrayLearning.cpp.o  -o std_arrayLearning 

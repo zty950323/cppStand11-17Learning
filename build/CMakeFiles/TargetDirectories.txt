@@ -22,5 +22,7 @@
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_03/CMakeFiles/moveSemanticsLearning.dir
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_03/CMakeFiles/perfactTransFromValueLearning.dir
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_04/CMakeFiles/rebuild_cache.dir
-/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_04/CMakeFiles/edit_cache.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_04/CMakeFiles/tupleUseAndLearning.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_04/CMakeFiles/compareMapAndUnorderedMapLeaning.dir
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_04/CMakeFiles/std_arrayLearning.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_04/CMakeFiles/edit_cache.dir
