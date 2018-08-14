@@ -14,6 +14,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../chapter_02/CMakeLists.txt"
   "../chapter_03/CMakeLists.txt"
   "../chapter_04/CMakeLists.txt"
+  "../chapter_05/CMakeLists.txt"
+  "../chapter_06/CMakeLists.txt"
   "/usr/local/share/cmake-3.12/Modules/CMakeCInformation.cmake"
   "/usr/local/share/cmake-3.12/Modules/CMakeCXXInformation.cmake"
   "/usr/local/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake"
@@ -45,6 +47,8 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "chapter_02/CMakeFiles/CMakeDirectoryInformation.cmake"
   "chapter_03/CMakeFiles/CMakeDirectoryInformation.cmake"
   "chapter_04/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "chapter_05/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "chapter_06/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -69,4 +73,8 @@ set(CMAKE_DEPEND_INFO_FILES
   "chapter_04/CMakeFiles/tupleUseAndLearning.dir/DependInfo.cmake"
   "chapter_04/CMakeFiles/compareMapAndUnorderedMapLeaning.dir/DependInfo.cmake"
   "chapter_04/CMakeFiles/std_arrayLearning.dir/DependInfo.cmake"
+  "chapter_05/CMakeFiles/uniquePrtLearning.dir/DependInfo.cmake"
+  "chapter_05/CMakeFiles/sharedPtrLearning.dir/DependInfo.cmake"
+  "chapter_06/CMakeFiles/stdRegexStandingExample.dir/DependInfo.cmake"
+  "chapter_06/CMakeFiles/stdRegexUseLearning.dir/DependInfo.cmake"
   )

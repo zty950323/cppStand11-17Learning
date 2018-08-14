@@ -370,6 +370,58 @@ std_arrayLearning/fast:
 	$(MAKE) -f chapter_04/CMakeFiles/std_arrayLearning.dir/build.make chapter_04/CMakeFiles/std_arrayLearning.dir/build
 .PHONY : std_arrayLearning/fast
 
+#=============================================================================
+# Target rules for targets named uniquePrtLearning
+
+# Build rule for target.
+uniquePrtLearning: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 uniquePrtLearning
+.PHONY : uniquePrtLearning
+
+# fast build rule for target.
+uniquePrtLearning/fast:
+	$(MAKE) -f chapter_05/CMakeFiles/uniquePrtLearning.dir/build.make chapter_05/CMakeFiles/uniquePrtLearning.dir/build
+.PHONY : uniquePrtLearning/fast
+
+#=============================================================================
+# Target rules for targets named sharedPtrLearning
+
+# Build rule for target.
+sharedPtrLearning: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sharedPtrLearning
+.PHONY : sharedPtrLearning
+
+# fast build rule for target.
+sharedPtrLearning/fast:
+	$(MAKE) -f chapter_05/CMakeFiles/sharedPtrLearning.dir/build.make chapter_05/CMakeFiles/sharedPtrLearning.dir/build
+.PHONY : sharedPtrLearning/fast
+
+#=============================================================================
+# Target rules for targets named stdRegexStandingExample
+
+# Build rule for target.
+stdRegexStandingExample: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 stdRegexStandingExample
+.PHONY : stdRegexStandingExample
+
+# fast build rule for target.
+stdRegexStandingExample/fast:
+	$(MAKE) -f chapter_06/CMakeFiles/stdRegexStandingExample.dir/build.make chapter_06/CMakeFiles/stdRegexStandingExample.dir/build
+.PHONY : stdRegexStandingExample/fast
+
+#=============================================================================
+# Target rules for targets named stdRegexUseLearning
+
+# Build rule for target.
+stdRegexUseLearning: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 stdRegexUseLearning
+.PHONY : stdRegexUseLearning
+
+# fast build rule for target.
+stdRegexUseLearning/fast:
+	$(MAKE) -f chapter_06/CMakeFiles/stdRegexUseLearning.dir/build.make chapter_06/CMakeFiles/stdRegexUseLearning.dir/build
+.PHONY : stdRegexUseLearning/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -398,6 +450,10 @@ help:
 	@echo "... tupleUseAndLearning"
 	@echo "... compareMapAndUnorderedMapLeaning"
 	@echo "... std_arrayLearning"
+	@echo "... uniquePrtLearning"
+	@echo "... sharedPtrLearning"
+	@echo "... stdRegexStandingExample"
+	@echo "... stdRegexUseLearning"
 .PHONY : help
 
 

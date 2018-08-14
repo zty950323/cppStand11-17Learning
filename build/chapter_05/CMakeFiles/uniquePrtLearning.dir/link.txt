@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -fPIC  -rdynamic CMakeFiles/uniquePrtLearning.dir/uniquePrtLearning.cpp.o  -o uniquePrtLearning 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -fPIC  -rdynamic CMakeFiles/memoryLeakLearning.dir/memoryLeakLearning.cpp.o  -o memoryLeakLearning 
