@@ -34,3 +34,6 @@
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_06/CMakeFiles/stdRegexStandingExample.dir
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_06/CMakeFiles/rebuild_cache.dir
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_06/CMakeFiles/stdRegexUseLearning.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_07/CMakeFiles/rebuild_cache.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_07/CMakeFiles/edit_cache.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_07/CMakeFiles/stdThreadUseLearning.dir

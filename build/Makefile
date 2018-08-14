@@ -422,6 +422,19 @@ stdRegexUseLearning/fast:
 	$(MAKE) -f chapter_06/CMakeFiles/stdRegexUseLearning.dir/build.make chapter_06/CMakeFiles/stdRegexUseLearning.dir/build
 .PHONY : stdRegexUseLearning/fast
 
+#=============================================================================
+# Target rules for targets named stdThreadUseLearning
+
+# Build rule for target.
+stdThreadUseLearning: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 stdThreadUseLearning
+.PHONY : stdThreadUseLearning
+
+# fast build rule for target.
+stdThreadUseLearning/fast:
+	$(MAKE) -f chapter_07/CMakeFiles/stdThreadUseLearning.dir/build.make chapter_07/CMakeFiles/stdThreadUseLearning.dir/build
+.PHONY : stdThreadUseLearning/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -454,6 +467,7 @@ help:
 	@echo "... sharedPtrLearning"
 	@echo "... stdRegexStandingExample"
 	@echo "... stdRegexUseLearning"
+	@echo "... stdThreadUseLearning"
 .PHONY : help
 
 

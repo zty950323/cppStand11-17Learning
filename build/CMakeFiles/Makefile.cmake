@@ -16,6 +16,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../chapter_04/CMakeLists.txt"
   "../chapter_05/CMakeLists.txt"
   "../chapter_06/CMakeLists.txt"
+  "../chapter_07/CMakeLists.txt"
   "/usr/local/share/cmake-3.12/Modules/CMakeCInformation.cmake"
   "/usr/local/share/cmake-3.12/Modules/CMakeCXXInformation.cmake"
   "/usr/local/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake"
@@ -24,10 +25,16 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/local/share/cmake-3.12/Modules/CMakeLanguageInformation.cmake"
   "/usr/local/share/cmake-3.12/Modules/CMakeSystemSpecificInformation.cmake"
   "/usr/local/share/cmake-3.12/Modules/CMakeSystemSpecificInitialize.cmake"
+  "/usr/local/share/cmake-3.12/Modules/CheckIncludeFile.cmake"
+  "/usr/local/share/cmake-3.12/Modules/CheckLibraryExists.cmake"
+  "/usr/local/share/cmake-3.12/Modules/CheckSymbolExists.cmake"
   "/usr/local/share/cmake-3.12/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
   "/usr/local/share/cmake-3.12/Modules/Compiler/GNU-C.cmake"
   "/usr/local/share/cmake-3.12/Modules/Compiler/GNU-CXX.cmake"
   "/usr/local/share/cmake-3.12/Modules/Compiler/GNU.cmake"
+  "/usr/local/share/cmake-3.12/Modules/FindPackageHandleStandardArgs.cmake"
+  "/usr/local/share/cmake-3.12/Modules/FindPackageMessage.cmake"
+  "/usr/local/share/cmake-3.12/Modules/FindThreads.cmake"
   "/usr/local/share/cmake-3.12/Modules/Platform/Linux-GNU-C.cmake"
   "/usr/local/share/cmake-3.12/Modules/Platform/Linux-GNU-CXX.cmake"
   "/usr/local/share/cmake-3.12/Modules/Platform/Linux-GNU.cmake"
@@ -49,6 +56,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "chapter_04/CMakeFiles/CMakeDirectoryInformation.cmake"
   "chapter_05/CMakeFiles/CMakeDirectoryInformation.cmake"
   "chapter_06/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "chapter_07/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -77,4 +85,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "chapter_05/CMakeFiles/sharedPtrLearning.dir/DependInfo.cmake"
   "chapter_06/CMakeFiles/stdRegexStandingExample.dir/DependInfo.cmake"
   "chapter_06/CMakeFiles/stdRegexUseLearning.dir/DependInfo.cmake"
+  "chapter_07/CMakeFiles/stdThreadUseLearning.dir/DependInfo.cmake"
   )
