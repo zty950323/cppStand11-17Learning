@@ -423,6 +423,19 @@ stdRegexUseLearning/fast:
 .PHONY : stdRegexUseLearning/fast
 
 #=============================================================================
+# Target rules for targets named stdProducerAndCostomerLearning
+
+# Build rule for target.
+stdProducerAndCostomerLearning: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 stdProducerAndCostomerLearning
+.PHONY : stdProducerAndCostomerLearning
+
+# fast build rule for target.
+stdProducerAndCostomerLearning/fast:
+	$(MAKE) -f chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/build.make chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/build
+.PHONY : stdProducerAndCostomerLearning/fast
+
+#=============================================================================
 # Target rules for targets named stdThreadUseLearning
 
 # Build rule for target.
@@ -434,6 +447,45 @@ stdThreadUseLearning: cmake_check_build_system
 stdThreadUseLearning/fast:
 	$(MAKE) -f chapter_07/CMakeFiles/stdThreadUseLearning.dir/build.make chapter_07/CMakeFiles/stdThreadUseLearning.dir/build
 .PHONY : stdThreadUseLearning/fast
+
+#=============================================================================
+# Target rules for targets named stdThreadExampleLearning
+
+# Build rule for target.
+stdThreadExampleLearning: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 stdThreadExampleLearning
+.PHONY : stdThreadExampleLearning
+
+# fast build rule for target.
+stdThreadExampleLearning/fast:
+	$(MAKE) -f chapter_07/CMakeFiles/stdThreadExampleLearning.dir/build.make chapter_07/CMakeFiles/stdThreadExampleLearning.dir/build
+.PHONY : stdThreadExampleLearning/fast
+
+#=============================================================================
+# Target rules for targets named synThreadUseLeaning
+
+# Build rule for target.
+synThreadUseLeaning: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 synThreadUseLeaning
+.PHONY : synThreadUseLeaning
+
+# fast build rule for target.
+synThreadUseLeaning/fast:
+	$(MAKE) -f chapter_07/CMakeFiles/synThreadUseLeaning.dir/build.make chapter_07/CMakeFiles/synThreadUseLeaning.dir/build
+.PHONY : synThreadUseLeaning/fast
+
+#=============================================================================
+# Target rules for targets named noexceptUseLearning
+
+# Build rule for target.
+noexceptUseLearning: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 noexceptUseLearning
+.PHONY : noexceptUseLearning
+
+# fast build rule for target.
+noexceptUseLearning/fast:
+	$(MAKE) -f chapter_09/CMakeFiles/noexceptUseLearning.dir/build.make chapter_09/CMakeFiles/noexceptUseLearning.dir/build
+.PHONY : noexceptUseLearning/fast
 
 # Help Target
 help:
@@ -467,7 +519,11 @@ help:
 	@echo "... sharedPtrLearning"
 	@echo "... stdRegexStandingExample"
 	@echo "... stdRegexUseLearning"
+	@echo "... stdProducerAndCostomerLearning"
 	@echo "... stdThreadUseLearning"
+	@echo "... stdThreadExampleLearning"
+	@echo "... synThreadUseLeaning"
+	@echo "... noexceptUseLearning"
 .PHONY : help
 
 

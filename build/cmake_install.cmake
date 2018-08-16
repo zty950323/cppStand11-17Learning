@@ -45,6 +45,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_05/cmake_install.cmake")
   include("/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_06/cmake_install.cmake")
   include("/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_07/cmake_install.cmake")
+  include("/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_09/cmake_install.cmake")
 
 endif()
 

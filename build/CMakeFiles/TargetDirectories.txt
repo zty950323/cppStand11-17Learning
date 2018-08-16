@@ -36,4 +36,10 @@
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_06/CMakeFiles/stdRegexUseLearning.dir
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_07/CMakeFiles/rebuild_cache.dir
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_07/CMakeFiles/edit_cache.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_07/CMakeFiles/stdThreadUseLearning.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_07/CMakeFiles/stdThreadExampleLearning.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_07/CMakeFiles/synThreadUseLeaning.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_09/CMakeFiles/rebuild_cache.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_09/CMakeFiles/edit_cache.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_09/CMakeFiles/noexceptUseLearning.dir

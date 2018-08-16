@@ -17,6 +17,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../chapter_05/CMakeLists.txt"
   "../chapter_06/CMakeLists.txt"
   "../chapter_07/CMakeLists.txt"
+  "../chapter_09/CMakeLists.txt"
   "/usr/local/share/cmake-3.12/Modules/CMakeCInformation.cmake"
   "/usr/local/share/cmake-3.12/Modules/CMakeCXXInformation.cmake"
   "/usr/local/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake"
@@ -57,6 +58,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "chapter_05/CMakeFiles/CMakeDirectoryInformation.cmake"
   "chapter_06/CMakeFiles/CMakeDirectoryInformation.cmake"
   "chapter_07/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "chapter_09/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -85,5 +87,9 @@ set(CMAKE_DEPEND_INFO_FILES
   "chapter_05/CMakeFiles/sharedPtrLearning.dir/DependInfo.cmake"
   "chapter_06/CMakeFiles/stdRegexStandingExample.dir/DependInfo.cmake"
   "chapter_06/CMakeFiles/stdRegexUseLearning.dir/DependInfo.cmake"
+  "chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/DependInfo.cmake"
   "chapter_07/CMakeFiles/stdThreadUseLearning.dir/DependInfo.cmake"
+  "chapter_07/CMakeFiles/stdThreadExampleLearning.dir/DependInfo.cmake"
+  "chapter_07/CMakeFiles/synThreadUseLeaning.dir/DependInfo.cmake"
+  "chapter_09/CMakeFiles/noexceptUseLearning.dir/DependInfo.cmake"
   )
