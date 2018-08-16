@@ -2,9 +2,12 @@
 #include <thread>
 #include <mutex>
 
+int i = 0;
+
 void foo()
 {
-    std::cout << "hello world" << std::endl;
+    i++;
+    std::cout << "hello world : " << i << std::endl;
 }
 
 void some_operation(const std::string &message)
@@ -18,10 +21,32 @@ void some_operation(const std::string &message)
     // 因此这个函数内部的可以认为是临界区
 }
 
+std::mutex mtx;
+
+void block_area() 
+{
+    ++i;
+    std::unique_lock<std::mutex> lock(mtx);
+    // ...临界区
+    std::cout << "block_area enter" <<  std::endl;
+    lock.unlock();
+    // ... some other code
+    std::cout << "block_area some other code." << std::endl;
+    lock.lock(); // can lock again.
+    std::cout << i << std::endl;
+}
+
+
+
 int main()
 {
-    std::cout << "main thread enter." << std::endl;
+    i++;
+    std::cout << "main thread enter. " << i << std::endl;
     std::thread t(foo);
     t.join();
+    std::thread thd1(block_area);
+
+    thd1.join();
+
     return 0;
 }

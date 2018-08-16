@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/codemao/Panda/Projects/Learning/C++_Stand/chapter_07/synThreadUseLeaning.cpp
+iostream
+-
+future
+-
+thread
+-
+

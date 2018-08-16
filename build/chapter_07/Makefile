@@ -111,6 +111,21 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
+chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/rule:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f CMakeFiles/Makefile2 chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/rule
+.PHONY : chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/rule
+
+# Convenience name for target.
+stdProducerAndCostomerLearning: chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/rule
+
+.PHONY : stdProducerAndCostomerLearning
+
+# fast build rule for target.
+stdProducerAndCostomerLearning/fast:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/build.make chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/build
+.PHONY : stdProducerAndCostomerLearning/fast
+
+# Convenience name for target.
 chapter_07/CMakeFiles/stdThreadUseLearning.dir/rule:
 	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f CMakeFiles/Makefile2 chapter_07/CMakeFiles/stdThreadUseLearning.dir/rule
 .PHONY : chapter_07/CMakeFiles/stdThreadUseLearning.dir/rule
@@ -124,6 +139,90 @@ stdThreadUseLearning: chapter_07/CMakeFiles/stdThreadUseLearning.dir/rule
 stdThreadUseLearning/fast:
 	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/stdThreadUseLearning.dir/build.make chapter_07/CMakeFiles/stdThreadUseLearning.dir/build
 .PHONY : stdThreadUseLearning/fast
+
+# Convenience name for target.
+chapter_07/CMakeFiles/stdThreadExampleLearning.dir/rule:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f CMakeFiles/Makefile2 chapter_07/CMakeFiles/stdThreadExampleLearning.dir/rule
+.PHONY : chapter_07/CMakeFiles/stdThreadExampleLearning.dir/rule
+
+# Convenience name for target.
+stdThreadExampleLearning: chapter_07/CMakeFiles/stdThreadExampleLearning.dir/rule
+
+.PHONY : stdThreadExampleLearning
+
+# fast build rule for target.
+stdThreadExampleLearning/fast:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/stdThreadExampleLearning.dir/build.make chapter_07/CMakeFiles/stdThreadExampleLearning.dir/build
+.PHONY : stdThreadExampleLearning/fast
+
+# Convenience name for target.
+chapter_07/CMakeFiles/synThreadUseLeaning.dir/rule:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f CMakeFiles/Makefile2 chapter_07/CMakeFiles/synThreadUseLeaning.dir/rule
+.PHONY : chapter_07/CMakeFiles/synThreadUseLeaning.dir/rule
+
+# Convenience name for target.
+synThreadUseLeaning: chapter_07/CMakeFiles/synThreadUseLeaning.dir/rule
+
+.PHONY : synThreadUseLeaning
+
+# fast build rule for target.
+synThreadUseLeaning/fast:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/synThreadUseLeaning.dir/build.make chapter_07/CMakeFiles/synThreadUseLeaning.dir/build
+.PHONY : synThreadUseLeaning/fast
+
+stdProducerAndCostomerLearning.o: stdProducerAndCostomerLearning.cpp.o
+
+.PHONY : stdProducerAndCostomerLearning.o
+
+# target to build an object file
+stdProducerAndCostomerLearning.cpp.o:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/build.make chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/stdProducerAndCostomerLearning.cpp.o
+.PHONY : stdProducerAndCostomerLearning.cpp.o
+
+stdProducerAndCostomerLearning.i: stdProducerAndCostomerLearning.cpp.i
+
+.PHONY : stdProducerAndCostomerLearning.i
+
+# target to preprocess a source file
+stdProducerAndCostomerLearning.cpp.i:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/build.make chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/stdProducerAndCostomerLearning.cpp.i
+.PHONY : stdProducerAndCostomerLearning.cpp.i
+
+stdProducerAndCostomerLearning.s: stdProducerAndCostomerLearning.cpp.s
+
+.PHONY : stdProducerAndCostomerLearning.s
+
+# target to generate assembly for a file
+stdProducerAndCostomerLearning.cpp.s:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/build.make chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/stdProducerAndCostomerLearning.cpp.s
+.PHONY : stdProducerAndCostomerLearning.cpp.s
+
+stdThreadExampleLearning.o: stdThreadExampleLearning.cpp.o
+
+.PHONY : stdThreadExampleLearning.o
+
+# target to build an object file
+stdThreadExampleLearning.cpp.o:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/stdThreadExampleLearning.dir/build.make chapter_07/CMakeFiles/stdThreadExampleLearning.dir/stdThreadExampleLearning.cpp.o
+.PHONY : stdThreadExampleLearning.cpp.o
+
+stdThreadExampleLearning.i: stdThreadExampleLearning.cpp.i
+
+.PHONY : stdThreadExampleLearning.i
+
+# target to preprocess a source file
+stdThreadExampleLearning.cpp.i:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/stdThreadExampleLearning.dir/build.make chapter_07/CMakeFiles/stdThreadExampleLearning.dir/stdThreadExampleLearning.cpp.i
+.PHONY : stdThreadExampleLearning.cpp.i
+
+stdThreadExampleLearning.s: stdThreadExampleLearning.cpp.s
+
+.PHONY : stdThreadExampleLearning.s
+
+# target to generate assembly for a file
+stdThreadExampleLearning.cpp.s:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/stdThreadExampleLearning.dir/build.make chapter_07/CMakeFiles/stdThreadExampleLearning.dir/stdThreadExampleLearning.cpp.s
+.PHONY : stdThreadExampleLearning.cpp.s
 
 stdThreadUseLearning.o: stdThreadUseLearning.cpp.o
 
@@ -152,6 +251,33 @@ stdThreadUseLearning.cpp.s:
 	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/stdThreadUseLearning.dir/build.make chapter_07/CMakeFiles/stdThreadUseLearning.dir/stdThreadUseLearning.cpp.s
 .PHONY : stdThreadUseLearning.cpp.s
 
+synThreadUseLeaning.o: synThreadUseLeaning.cpp.o
+
+.PHONY : synThreadUseLeaning.o
+
+# target to build an object file
+synThreadUseLeaning.cpp.o:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/synThreadUseLeaning.dir/build.make chapter_07/CMakeFiles/synThreadUseLeaning.dir/synThreadUseLeaning.cpp.o
+.PHONY : synThreadUseLeaning.cpp.o
+
+synThreadUseLeaning.i: synThreadUseLeaning.cpp.i
+
+.PHONY : synThreadUseLeaning.i
+
+# target to preprocess a source file
+synThreadUseLeaning.cpp.i:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/synThreadUseLeaning.dir/build.make chapter_07/CMakeFiles/synThreadUseLeaning.dir/synThreadUseLeaning.cpp.i
+.PHONY : synThreadUseLeaning.cpp.i
+
+synThreadUseLeaning.s: synThreadUseLeaning.cpp.s
+
+.PHONY : synThreadUseLeaning.s
+
+# target to generate assembly for a file
+synThreadUseLeaning.cpp.s:
+	cd /home/codemao/Panda/Projects/Learning/C++_Stand/build && $(MAKE) -f chapter_07/CMakeFiles/synThreadUseLeaning.dir/build.make chapter_07/CMakeFiles/synThreadUseLeaning.dir/synThreadUseLeaning.cpp.s
+.PHONY : synThreadUseLeaning.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -160,10 +286,22 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... stdProducerAndCostomerLearning"
 	@echo "... stdThreadUseLearning"
+	@echo "... stdThreadExampleLearning"
+	@echo "... synThreadUseLeaning"
+	@echo "... stdProducerAndCostomerLearning.o"
+	@echo "... stdProducerAndCostomerLearning.i"
+	@echo "... stdProducerAndCostomerLearning.s"
+	@echo "... stdThreadExampleLearning.o"
+	@echo "... stdThreadExampleLearning.i"
+	@echo "... stdThreadExampleLearning.s"
 	@echo "... stdThreadUseLearning.o"
 	@echo "... stdThreadUseLearning.i"
 	@echo "... stdThreadUseLearning.s"
+	@echo "... synThreadUseLeaning.o"
+	@echo "... synThreadUseLeaning.i"
+	@echo "... synThreadUseLeaning.s"
 .PHONY : help
 
 
