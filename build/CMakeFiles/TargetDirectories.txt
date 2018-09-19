@@ -43,3 +43,8 @@
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_09/CMakeFiles/rebuild_cache.dir
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_09/CMakeFiles/edit_cache.dir
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/chapter_09/CMakeFiles/noexceptUseLearning.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/effectiveCpp/CMakeFiles/rebuild_cache.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/effectiveCpp/CMakeFiles/edit_cache.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/effectiveCpp/const/CMakeFiles/rebuild_cache.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/effectiveCpp/const/CMakeFiles/edit_cache.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/effectiveCpp/const/CMakeFiles/constnessUnderstand.dir

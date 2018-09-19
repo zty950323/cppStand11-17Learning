@@ -487,6 +487,19 @@ noexceptUseLearning/fast:
 	$(MAKE) -f chapter_09/CMakeFiles/noexceptUseLearning.dir/build.make chapter_09/CMakeFiles/noexceptUseLearning.dir/build
 .PHONY : noexceptUseLearning/fast
 
+#=============================================================================
+# Target rules for targets named constnessUnderstand
+
+# Build rule for target.
+constnessUnderstand: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 constnessUnderstand
+.PHONY : constnessUnderstand
+
+# fast build rule for target.
+constnessUnderstand/fast:
+	$(MAKE) -f effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/build.make effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/build
+.PHONY : constnessUnderstand/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -524,6 +537,7 @@ help:
 	@echo "... stdThreadExampleLearning"
 	@echo "... synThreadUseLeaning"
 	@echo "... noexceptUseLearning"
+	@echo "... constnessUnderstand"
 .PHONY : help
 
 

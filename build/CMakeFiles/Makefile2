@@ -148,7 +148,7 @@ clean: chapter_02/CMakeFiles/OONewLearning.dir/clean
 chapter_02/CMakeFiles/enumClassLearning.dir/all:
 	$(MAKE) -f chapter_02/CMakeFiles/enumClassLearning.dir/build.make chapter_02/CMakeFiles/enumClassLearning.dir/depend
 	$(MAKE) -f chapter_02/CMakeFiles/enumClassLearning.dir/build.make chapter_02/CMakeFiles/enumClassLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=17,18 "Built target enumClassLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=19,20 "Built target enumClassLearning"
 .PHONY : chapter_02/CMakeFiles/enumClassLearning.dir/all
 
 # Include target in all.
@@ -185,7 +185,7 @@ clean: chapter_02/CMakeFiles/enumClassLearning.dir/clean
 chapter_02/CMakeFiles/ifValueStatementLearing.dir/all:
 	$(MAKE) -f chapter_02/CMakeFiles/ifValueStatementLearing.dir/build.make chapter_02/CMakeFiles/ifValueStatementLearing.dir/depend
 	$(MAKE) -f chapter_02/CMakeFiles/ifValueStatementLearing.dir/build.make chapter_02/CMakeFiles/ifValueStatementLearing.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=23,24 "Built target ifValueStatementLearing"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=25,26 "Built target ifValueStatementLearing"
 .PHONY : chapter_02/CMakeFiles/ifValueStatementLearing.dir/all
 
 # Include target in all.
@@ -333,7 +333,7 @@ clean: chapter_02/CMakeFiles/InitializerListLearing.dir/clean
 chapter_02/CMakeFiles/nullptrLearning.dir/all:
 	$(MAKE) -f chapter_02/CMakeFiles/nullptrLearning.dir/build.make chapter_02/CMakeFiles/nullptrLearning.dir/depend
 	$(MAKE) -f chapter_02/CMakeFiles/nullptrLearning.dir/build.make chapter_02/CMakeFiles/nullptrLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=33,34 "Built target nullptrLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=35,36 "Built target nullptrLearning"
 .PHONY : chapter_02/CMakeFiles/nullptrLearning.dir/all
 
 # Include target in all.
@@ -370,7 +370,7 @@ clean: chapter_02/CMakeFiles/nullptrLearning.dir/clean
 chapter_02/CMakeFiles/inheritedConstructorsLearning.dir/all:
 	$(MAKE) -f chapter_02/CMakeFiles/inheritedConstructorsLearning.dir/build.make chapter_02/CMakeFiles/inheritedConstructorsLearning.dir/depend
 	$(MAKE) -f chapter_02/CMakeFiles/inheritedConstructorsLearning.dir/build.make chapter_02/CMakeFiles/inheritedConstructorsLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=25,26 "Built target inheritedConstructorsLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=27,28 "Built target inheritedConstructorsLearning"
 .PHONY : chapter_02/CMakeFiles/inheritedConstructorsLearning.dir/all
 
 # Include target in all.
@@ -407,7 +407,7 @@ clean: chapter_02/CMakeFiles/inheritedConstructorsLearning.dir/clean
 chapter_02/CMakeFiles/forIterationLearning.dir/all:
 	$(MAKE) -f chapter_02/CMakeFiles/forIterationLearning.dir/build.make chapter_02/CMakeFiles/forIterationLearning.dir/depend
 	$(MAKE) -f chapter_02/CMakeFiles/forIterationLearning.dir/build.make chapter_02/CMakeFiles/forIterationLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=19,20 "Built target forIterationLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=21,22 "Built target forIterationLearning"
 .PHONY : chapter_02/CMakeFiles/forIterationLearning.dir/all
 
 # Include target in all.
@@ -444,7 +444,7 @@ clean: chapter_02/CMakeFiles/forIterationLearning.dir/clean
 chapter_02/CMakeFiles/decltypeLearning.dir/all:
 	$(MAKE) -f chapter_02/CMakeFiles/decltypeLearning.dir/build.make chapter_02/CMakeFiles/decltypeLearning.dir/depend
 	$(MAKE) -f chapter_02/CMakeFiles/decltypeLearning.dir/build.make chapter_02/CMakeFiles/decltypeLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=15,16 "Built target decltypeLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=17,18 "Built target decltypeLearning"
 .PHONY : chapter_02/CMakeFiles/decltypeLearning.dir/all
 
 # Include target in all.
@@ -481,7 +481,7 @@ clean: chapter_02/CMakeFiles/decltypeLearning.dir/clean
 chapter_02/CMakeFiles/tepmateUseLearning.dir/all:
 	$(MAKE) -f chapter_02/CMakeFiles/tepmateUseLearning.dir/build.make chapter_02/CMakeFiles/tepmateUseLearning.dir/depend
 	$(MAKE) -f chapter_02/CMakeFiles/tepmateUseLearning.dir/build.make chapter_02/CMakeFiles/tepmateUseLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=53,54 "Built target tepmateUseLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=55,56 "Built target tepmateUseLearning"
 .PHONY : chapter_02/CMakeFiles/tepmateUseLearning.dir/all
 
 # Include target in all.
@@ -581,7 +581,7 @@ chapter_03/preinstall:
 chapter_03/CMakeFiles/forwardUsingLearning.dir/all:
 	$(MAKE) -f chapter_03/CMakeFiles/forwardUsingLearning.dir/build.make chapter_03/CMakeFiles/forwardUsingLearning.dir/depend
 	$(MAKE) -f chapter_03/CMakeFiles/forwardUsingLearning.dir/build.make chapter_03/CMakeFiles/forwardUsingLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=21,22 "Built target forwardUsingLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=23,24 "Built target forwardUsingLearning"
 .PHONY : chapter_03/CMakeFiles/forwardUsingLearning.dir/all
 
 # Include target in all.
@@ -655,7 +655,7 @@ clean: chapter_03/CMakeFiles/LambdaLearning.dir/clean
 chapter_03/CMakeFiles/make_uniqueLearning.dir/all:
 	$(MAKE) -f chapter_03/CMakeFiles/make_uniqueLearning.dir/build.make chapter_03/CMakeFiles/make_uniqueLearning.dir/depend
 	$(MAKE) -f chapter_03/CMakeFiles/make_uniqueLearning.dir/build.make chapter_03/CMakeFiles/make_uniqueLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=27,28 "Built target make_uniqueLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=29,30 "Built target make_uniqueLearning"
 .PHONY : chapter_03/CMakeFiles/make_uniqueLearning.dir/all
 
 # Include target in all.
@@ -692,7 +692,7 @@ clean: chapter_03/CMakeFiles/make_uniqueLearning.dir/clean
 chapter_03/CMakeFiles/moveSemanticsLearning.dir/all:
 	$(MAKE) -f chapter_03/CMakeFiles/moveSemanticsLearning.dir/build.make chapter_03/CMakeFiles/moveSemanticsLearning.dir/depend
 	$(MAKE) -f chapter_03/CMakeFiles/moveSemanticsLearning.dir/build.make chapter_03/CMakeFiles/moveSemanticsLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=29,30 "Built target moveSemanticsLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=31,32 "Built target moveSemanticsLearning"
 .PHONY : chapter_03/CMakeFiles/moveSemanticsLearning.dir/all
 
 # Include target in all.
@@ -729,7 +729,7 @@ clean: chapter_03/CMakeFiles/moveSemanticsLearning.dir/clean
 chapter_03/CMakeFiles/perfactTransFromValueLearning.dir/all:
 	$(MAKE) -f chapter_03/CMakeFiles/perfactTransFromValueLearning.dir/build.make chapter_03/CMakeFiles/perfactTransFromValueLearning.dir/depend
 	$(MAKE) -f chapter_03/CMakeFiles/perfactTransFromValueLearning.dir/build.make chapter_03/CMakeFiles/perfactTransFromValueLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=35,36 "Built target perfactTransFromValueLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=37,38 "Built target perfactTransFromValueLearning"
 .PHONY : chapter_03/CMakeFiles/perfactTransFromValueLearning.dir/all
 
 # Include target in all.
@@ -788,7 +788,7 @@ chapter_04/preinstall:
 chapter_04/CMakeFiles/tupleUseAndLearning.dir/all:
 	$(MAKE) -f chapter_04/CMakeFiles/tupleUseAndLearning.dir/build.make chapter_04/CMakeFiles/tupleUseAndLearning.dir/depend
 	$(MAKE) -f chapter_04/CMakeFiles/tupleUseAndLearning.dir/build.make chapter_04/CMakeFiles/tupleUseAndLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=55,56 "Built target tupleUseAndLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=57,58 "Built target tupleUseAndLearning"
 .PHONY : chapter_04/CMakeFiles/tupleUseAndLearning.dir/all
 
 # Include target in all.
@@ -862,7 +862,7 @@ clean: chapter_04/CMakeFiles/compareMapAndUnorderedMapLeaning.dir/clean
 chapter_04/CMakeFiles/std_arrayLearning.dir/all:
 	$(MAKE) -f chapter_04/CMakeFiles/std_arrayLearning.dir/build.make chapter_04/CMakeFiles/std_arrayLearning.dir/depend
 	$(MAKE) -f chapter_04/CMakeFiles/std_arrayLearning.dir/build.make chapter_04/CMakeFiles/std_arrayLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=49,50 "Built target std_arrayLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=51,52 "Built target std_arrayLearning"
 .PHONY : chapter_04/CMakeFiles/std_arrayLearning.dir/all
 
 # Include target in all.
@@ -919,7 +919,7 @@ chapter_05/preinstall:
 chapter_05/CMakeFiles/uniquePrtLearning.dir/all:
 	$(MAKE) -f chapter_05/CMakeFiles/uniquePrtLearning.dir/build.make chapter_05/CMakeFiles/uniquePrtLearning.dir/depend
 	$(MAKE) -f chapter_05/CMakeFiles/uniquePrtLearning.dir/build.make chapter_05/CMakeFiles/uniquePrtLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=57,58 "Built target uniquePrtLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=59,60 "Built target uniquePrtLearning"
 .PHONY : chapter_05/CMakeFiles/uniquePrtLearning.dir/all
 
 # Include target in all.
@@ -956,7 +956,7 @@ clean: chapter_05/CMakeFiles/uniquePrtLearning.dir/clean
 chapter_05/CMakeFiles/sharedPtrLearning.dir/all:
 	$(MAKE) -f chapter_05/CMakeFiles/sharedPtrLearning.dir/build.make chapter_05/CMakeFiles/sharedPtrLearning.dir/depend
 	$(MAKE) -f chapter_05/CMakeFiles/sharedPtrLearning.dir/build.make chapter_05/CMakeFiles/sharedPtrLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=37,38 "Built target sharedPtrLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=39,40 "Built target sharedPtrLearning"
 .PHONY : chapter_05/CMakeFiles/sharedPtrLearning.dir/all
 
 # Include target in all.
@@ -1013,7 +1013,7 @@ chapter_06/preinstall:
 chapter_06/CMakeFiles/stdRegexStandingExample.dir/all:
 	$(MAKE) -f chapter_06/CMakeFiles/stdRegexStandingExample.dir/build.make chapter_06/CMakeFiles/stdRegexStandingExample.dir/depend
 	$(MAKE) -f chapter_06/CMakeFiles/stdRegexStandingExample.dir/build.make chapter_06/CMakeFiles/stdRegexStandingExample.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=41,42 "Built target stdRegexStandingExample"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=43,44 "Built target stdRegexStandingExample"
 .PHONY : chapter_06/CMakeFiles/stdRegexStandingExample.dir/all
 
 # Include target in all.
@@ -1050,7 +1050,7 @@ clean: chapter_06/CMakeFiles/stdRegexStandingExample.dir/clean
 chapter_06/CMakeFiles/stdRegexUseLearning.dir/all:
 	$(MAKE) -f chapter_06/CMakeFiles/stdRegexUseLearning.dir/build.make chapter_06/CMakeFiles/stdRegexUseLearning.dir/depend
 	$(MAKE) -f chapter_06/CMakeFiles/stdRegexUseLearning.dir/build.make chapter_06/CMakeFiles/stdRegexUseLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=43,44 "Built target stdRegexUseLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=45,46 "Built target stdRegexUseLearning"
 .PHONY : chapter_06/CMakeFiles/stdRegexUseLearning.dir/all
 
 # Include target in all.
@@ -1111,7 +1111,7 @@ chapter_07/preinstall:
 chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/all:
 	$(MAKE) -f chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/build.make chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/depend
 	$(MAKE) -f chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/build.make chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=39,40 "Built target stdProducerAndCostomerLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=41,42 "Built target stdProducerAndCostomerLearning"
 .PHONY : chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/all
 
 # Include target in all.
@@ -1148,7 +1148,7 @@ clean: chapter_07/CMakeFiles/stdProducerAndCostomerLearning.dir/clean
 chapter_07/CMakeFiles/stdThreadUseLearning.dir/all:
 	$(MAKE) -f chapter_07/CMakeFiles/stdThreadUseLearning.dir/build.make chapter_07/CMakeFiles/stdThreadUseLearning.dir/depend
 	$(MAKE) -f chapter_07/CMakeFiles/stdThreadUseLearning.dir/build.make chapter_07/CMakeFiles/stdThreadUseLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=47,48 "Built target stdThreadUseLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=49,50 "Built target stdThreadUseLearning"
 .PHONY : chapter_07/CMakeFiles/stdThreadUseLearning.dir/all
 
 # Include target in all.
@@ -1185,7 +1185,7 @@ clean: chapter_07/CMakeFiles/stdThreadUseLearning.dir/clean
 chapter_07/CMakeFiles/stdThreadExampleLearning.dir/all:
 	$(MAKE) -f chapter_07/CMakeFiles/stdThreadExampleLearning.dir/build.make chapter_07/CMakeFiles/stdThreadExampleLearning.dir/depend
 	$(MAKE) -f chapter_07/CMakeFiles/stdThreadExampleLearning.dir/build.make chapter_07/CMakeFiles/stdThreadExampleLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=45,46 "Built target stdThreadExampleLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=47,48 "Built target stdThreadExampleLearning"
 .PHONY : chapter_07/CMakeFiles/stdThreadExampleLearning.dir/all
 
 # Include target in all.
@@ -1222,7 +1222,7 @@ clean: chapter_07/CMakeFiles/stdThreadExampleLearning.dir/clean
 chapter_07/CMakeFiles/synThreadUseLeaning.dir/all:
 	$(MAKE) -f chapter_07/CMakeFiles/synThreadUseLeaning.dir/build.make chapter_07/CMakeFiles/synThreadUseLeaning.dir/depend
 	$(MAKE) -f chapter_07/CMakeFiles/synThreadUseLeaning.dir/build.make chapter_07/CMakeFiles/synThreadUseLeaning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=51,52 "Built target synThreadUseLeaning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=53,54 "Built target synThreadUseLeaning"
 .PHONY : chapter_07/CMakeFiles/synThreadUseLeaning.dir/all
 
 # Include target in all.
@@ -1277,7 +1277,7 @@ chapter_09/preinstall:
 chapter_09/CMakeFiles/noexceptUseLearning.dir/all:
 	$(MAKE) -f chapter_09/CMakeFiles/noexceptUseLearning.dir/build.make chapter_09/CMakeFiles/noexceptUseLearning.dir/depend
 	$(MAKE) -f chapter_09/CMakeFiles/noexceptUseLearning.dir/build.make chapter_09/CMakeFiles/noexceptUseLearning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=31,32 "Built target noexceptUseLearning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=33,34 "Built target noexceptUseLearning"
 .PHONY : chapter_09/CMakeFiles/noexceptUseLearning.dir/all
 
 # Include target in all.
@@ -1304,6 +1304,79 @@ chapter_09/CMakeFiles/noexceptUseLearning.dir/clean:
 
 # clean rule for target.
 clean: chapter_09/CMakeFiles/noexceptUseLearning.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory effectiveCpp
+
+# Convenience name for "all" pass in the directory.
+effectiveCpp/all: effectiveCpp/const/all
+
+.PHONY : effectiveCpp/all
+
+# Convenience name for "clean" pass in the directory.
+effectiveCpp/clean: effectiveCpp/const/clean
+
+.PHONY : effectiveCpp/clean
+
+# Convenience name for "preinstall" pass in the directory.
+effectiveCpp/preinstall: effectiveCpp/const/preinstall
+
+.PHONY : effectiveCpp/preinstall
+
+#=============================================================================
+# Directory level rules for directory effectiveCpp/const
+
+# Convenience name for "all" pass in the directory.
+effectiveCpp/const/all: effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/all
+
+.PHONY : effectiveCpp/const/all
+
+# Convenience name for "clean" pass in the directory.
+effectiveCpp/const/clean: effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/clean
+
+.PHONY : effectiveCpp/const/clean
+
+# Convenience name for "preinstall" pass in the directory.
+effectiveCpp/const/preinstall:
+
+.PHONY : effectiveCpp/const/preinstall
+
+#=============================================================================
+# Target rules for target effectiveCpp/const/CMakeFiles/constnessUnderstand.dir
+
+# All Build rule for target.
+effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/all:
+	$(MAKE) -f effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/build.make effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/depend
+	$(MAKE) -f effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/build.make effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles --progress-num=15,16 "Built target constnessUnderstand"
+.PHONY : effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/all
+
+# Include target in all.
+all: effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/codemao/Panda/Projects/Learning/C++_Stand/build/CMakeFiles 0
+.PHONY : effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/rule
+
+# Convenience name for target.
+constnessUnderstand: effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/rule
+
+.PHONY : constnessUnderstand
+
+# clean rule for target.
+effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/clean:
+	$(MAKE) -f effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/build.make effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/clean
+.PHONY : effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/clean
+
+# clean rule for target.
+clean: effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/clean
 
 .PHONY : clean
 

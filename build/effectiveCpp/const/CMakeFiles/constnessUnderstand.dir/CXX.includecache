@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/codemao/Panda/Projects/Learning/C++_Stand/effectiveCpp/const/constnessUnderstand.cpp
+constnessUnderstand.h
+/home/codemao/Panda/Projects/Learning/C++_Stand/effectiveCpp/const/constnessUnderstand.h
+iostream
+-
+
+/home/codemao/Panda/Projects/Learning/C++_Stand/effectiveCpp/const/constnessUnderstand.h
+string
+-
+
