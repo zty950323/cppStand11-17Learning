@@ -1,0 +1,4 @@
+set(initialilizeProgram initialilizeObjectBeforeUse)
+
+add_executable(${initialilizeProgram}
+initialilizeObjectBeforeUse.cpp)

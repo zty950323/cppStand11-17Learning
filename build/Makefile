@@ -500,6 +500,19 @@ constnessUnderstand/fast:
 	$(MAKE) -f effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/build.make effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/build
 .PHONY : constnessUnderstand/fast
 
+#=============================================================================
+# Target rules for targets named initialilizeObjectBeforeUse
+
+# Build rule for target.
+initialilizeObjectBeforeUse: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 initialilizeObjectBeforeUse
+.PHONY : initialilizeObjectBeforeUse
+
+# fast build rule for target.
+initialilizeObjectBeforeUse/fast:
+	$(MAKE) -f effectiveCpp/initialilize/CMakeFiles/initialilizeObjectBeforeUse.dir/build.make effectiveCpp/initialilize/CMakeFiles/initialilizeObjectBeforeUse.dir/build
+.PHONY : initialilizeObjectBeforeUse/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -538,6 +551,7 @@ help:
 	@echo "... synThreadUseLeaning"
 	@echo "... noexceptUseLearning"
 	@echo "... constnessUnderstand"
+	@echo "... initialilizeObjectBeforeUse"
 .PHONY : help
 
 

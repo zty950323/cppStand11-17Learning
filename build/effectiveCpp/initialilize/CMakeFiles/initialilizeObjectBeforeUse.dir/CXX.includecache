@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/codemao/Panda/Projects/Learning/C++_Stand/effectiveCpp/initialilize/initialilizeObjectBeforeUse.cpp
+initialilizeObjectBeforeUse.h
+/home/codemao/Panda/Projects/Learning/C++_Stand/effectiveCpp/initialilize/initialilizeObjectBeforeUse.h
+iostream
+-
+
+/home/codemao/Panda/Projects/Learning/C++_Stand/effectiveCpp/initialilize/initialilizeObjectBeforeUse.h
+list
+-
+string
+-
+

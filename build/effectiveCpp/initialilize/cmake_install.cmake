@@ -1,4 +1,4 @@
-# Install script for directory: /home/codemao/Panda/Projects/Learning/C++_Stand/effectiveCpp
+# Install script for directory: /home/codemao/Panda/Projects/Learning/C++_Stand/effectiveCpp/initialilize
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,12 +35,5 @@ endif()
 # Is this installation the result of a crosscompile?
 if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("/home/codemao/Panda/Projects/Learning/C++_Stand/build/effectiveCpp/const/cmake_install.cmake")
-  include("/home/codemao/Panda/Projects/Learning/C++_Stand/build/effectiveCpp/initialilize/cmake_install.cmake")
-
 endif()
 

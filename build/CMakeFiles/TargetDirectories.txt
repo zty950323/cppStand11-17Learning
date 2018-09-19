@@ -48,3 +48,6 @@
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/effectiveCpp/const/CMakeFiles/rebuild_cache.dir
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/effectiveCpp/const/CMakeFiles/edit_cache.dir
 /home/codemao/Panda/Projects/Learning/C++_Stand/build/effectiveCpp/const/CMakeFiles/constnessUnderstand.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/effectiveCpp/initialilize/CMakeFiles/edit_cache.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/effectiveCpp/initialilize/CMakeFiles/rebuild_cache.dir
+/home/codemao/Panda/Projects/Learning/C++_Stand/build/effectiveCpp/initialilize/CMakeFiles/initialilizeObjectBeforeUse.dir

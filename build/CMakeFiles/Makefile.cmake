@@ -20,6 +20,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../chapter_09/CMakeLists.txt"
   "../effectiveCpp/CMakeLists.txt"
   "../effectiveCpp/const/CMakeLists.txt"
+  "../effectiveCpp/initialilize/CMakeLists.txt"
   "/usr/local/share/cmake-3.12/Modules/CMakeCInformation.cmake"
   "/usr/local/share/cmake-3.12/Modules/CMakeCXXInformation.cmake"
   "/usr/local/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake"
@@ -63,6 +64,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "chapter_09/CMakeFiles/CMakeDirectoryInformation.cmake"
   "effectiveCpp/CMakeFiles/CMakeDirectoryInformation.cmake"
   "effectiveCpp/const/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "effectiveCpp/initialilize/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -97,4 +99,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "chapter_07/CMakeFiles/synThreadUseLeaning.dir/DependInfo.cmake"
   "chapter_09/CMakeFiles/noexceptUseLearning.dir/DependInfo.cmake"
   "effectiveCpp/const/CMakeFiles/constnessUnderstand.dir/DependInfo.cmake"
+  "effectiveCpp/initialilize/CMakeFiles/initialilizeObjectBeforeUse.dir/DependInfo.cmake"
   )
